@@ -6,6 +6,8 @@ Hey there, this is Gleb from Belarus! <br>
 I am working on websites, it's front-end part, but also I am interested in back-end part, so i want to be
 a full-stack web dev in the future
 
+If you are interested to work with me, here can you find me -> [t.me/ppitohu](https://t.me/ppitohu)
+
 ## Skills:
 
 ### Current technologies:
