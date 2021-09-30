@@ -44,7 +44,7 @@ a full-stack web dev in the future.
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppitohu&theme=omni">
 <br><br><br>
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+<img src="https://raw.githubusercontent.com/ppitohu/ppitohu/output/github-contribution-grid-snake.svg" width="100%">
 
 <!---[![my stats](https://github-readme-stats.vercel.app/api?username=ppitohu&theme=discord_old_blurple&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) ---> 
 
