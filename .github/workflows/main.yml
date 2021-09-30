@@ -23,8 +23,9 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: generate github-contribution-grid-snake.svg
+      - name: generate-snake-game-from-github-contribution-grid
+        id: snake-gif
         uses: Platane/snk@master
         with:
-          github_user_name: pPitohu
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ppitohu
+          gif_out_path: dist/github-contribution-grid-snake.gif
