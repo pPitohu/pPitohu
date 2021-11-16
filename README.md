@@ -41,7 +41,7 @@ a full-stack web dev in the future.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:c31432,100:240b36&height=2">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ppitohu&theme=dracula&margin-w=7&margin-h=7&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppitohu&theme=omni">
+<!---<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppitohu&theme=omni">--->
 <br><br><br>
 
 <img src="https://raw.githubusercontent.com/ppitohu/ppitohu/output/github-contribution-grid-snake.svg" width="100%">
