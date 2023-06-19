@@ -10,26 +10,26 @@ You can find my projects in "Pinned" section, hope you'll like it!
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:c31432,100:240b36&height=2" width="100%">
 
 ## Technologies I use:
-#### Starter kit:
+### Starter kit:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS|SASS-ff69b4?style=for-the-badge&logo=SASS&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-blue?style=for-the-badge&logo=jquery&logoColor=white)
 
-#### Advanced coding:
+### Advanced coding:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](	https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NuxtJS](https://img.shields.io/badge/NuxtJS-000000?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
-#### Backend stuff:
+### Backend stuff:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Future plans:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![NuxtJS](https://img.shields.io/badge/NuxtJS-000000?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
 
 ### Current development tools:
@@ -42,7 +42,7 @@ You can find my projects in "Pinned" section, hope you'll like it!
 ![Avocode](https://img.shields.io/badge/Avocode-lightgreen?style=for-the-badge&logoColor=white)
 <br>
 <br>
-#### Also I've experienced with:
+### Also I've experienced with:
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
